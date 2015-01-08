@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefillingStation", "RefillingStation\RefillingStation.csproj", "{85C99F4B-8D52-42B0-A82B-923B5856E788}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{054D981C-A894-41E4-A6B1-AD8A998E2029}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Desktop\bottle.jpeg = ..\..\Desktop\bottle.jpeg
+		..\..\Desktop\gallon.jpg = ..\..\Desktop\gallon.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C99F4B-8D52-42B0-A82B-923B5856E788}.Debug|x86.ActiveCfg = Debug|x86
+		{85C99F4B-8D52-42B0-A82B-923B5856E788}.Debug|x86.Build.0 = Debug|x86
+		{85C99F4B-8D52-42B0-A82B-923B5856E788}.Release|x86.ActiveCfg = Release|x86
+		{85C99F4B-8D52-42B0-A82B-923B5856E788}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
